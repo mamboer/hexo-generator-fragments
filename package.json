@@ -1,0 +1,41 @@
+{
+  "name": "hexo-generator-fragments",
+  "version": "1.0.0",
+  "description": "Generate paged html fragments for Index, Category and Tag pages, let Hexo support elegant ajax pagination.",
+  "main": "index",
+  "scripts": {
+    "eslint": "eslint .",
+    "jscs": "jscs .",
+    "test": "mocha test/*.js",
+    "test-cov": "istanbul cover --print both _mocha -- test/*.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "repository": "mamboer/hexo-generator-fragments",
+  "homepage": "https://aotu.io/",
+  "keywords": [
+    "hexo",
+    "generator",
+    "fragments"
+  ],
+  "author": "LV <mamboer@gmail.com> (http://faso.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.0.1",
+    "eslint-config-hexo": "^1.0.3",
+    "hexo": "^3.2.2",
+    "istanbul": "^0.4.4",
+    "jscs": "^3.0.6",
+    "jscs-preset-hexo": "^1.0.1",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "hexo-pagination": "0.1.0",
+    "object-assign": "^4.1.0"
+  }
+}
