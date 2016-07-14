@@ -1,6 +1,6 @@
 # hexo-generator-fragments
 
-[![Build Status](https://travis-ci.org/mamboer/hexo-generator-fragments.svg?branch=master)](https://travis-ci.org/mamboer/hexo-generator-fragments)  [![NPM version](https://badge.fury.io/js/hexo-generator-fragments.svg)](http://badge.fury.io/js/hexo-generator-fragments) [![Coverage Status](https://img.shields.io/coveralls/mamboer/hexo-generator-fragments.svg)](https://coveralls.io/r/mamboer/hexo-generator-fragments?branch=master)
+[![Build Status](https://travis-ci.org/mamboer/hexo-generator-fragments.svg?branch=master)](https://travis-ci.org/mamboer/hexo-generator-fragments)  [![NPM version](https://badge.fury.io/js/hexo-generator-fragments.svg)](http://badge.fury.io/js/hexo-generator-fragments) [![Coverage Status](https://coveralls.io/repos/github/mamboer/hexo-generator-fragments/badge.svg?branch=master)](https://coveralls.io/github/mamboer/hexo-generator-fragments?branch=master) 
 
 Generate paged html fragments for Index, Category and Tag pages, let [Hexo](https://github.com/hexojs/hexo) support elegant ajax pagination.
 
